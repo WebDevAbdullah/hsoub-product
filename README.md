@@ -1,3 +1,3 @@
-# Comming Soon Page
+# Hsoub Academy Product Page
 
-See my website live: [Hsoub Product Page](https://webdevabdullah.github.io/hsoub-product/)
+See my website live: [Product Page](https://webdevabdullah.github.io/hsoub-product/)
